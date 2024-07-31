@@ -1,1 +1,0 @@
-The game involves clicking on randomly appearing moles to score points while avoiding randomly appearing piranha plants, as clicking on a plant ends the game. Moles and plants appear at random intervals on a 3x3 grid, and the score updates dynamically based on player actions.
